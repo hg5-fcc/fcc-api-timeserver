@@ -1,0 +1,12 @@
+{
+  "name": "request_header_parser",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.X.X"
+  },
+  "engines": {
+    "node": "4.X.X",
+    "npm": "2.X.X"
+  }
+}
